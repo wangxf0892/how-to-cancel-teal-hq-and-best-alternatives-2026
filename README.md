@@ -56,3 +56,5 @@ Before confirming your cancellation:
 
 ---
 *Also using LazyApply? Read our [LazyApply Safe Cancellation & Alternative Guide](https://github.com/wangxf0892/best-lazyapply-alternatives-and-cancellation-guide-2026).*
+
+*Also using Kickresume? Check our [Kickresume Cancellation & Migration Guide](https://github.com/wangxf0892/how-to-cancel-kickresume-and-export-resumes-2026).*
