@@ -53,3 +53,6 @@ Before confirming your cancellation:
 1. Go to your **Teal Job Tracker**.
 2. Click the three dots `...` on the top right of your board and choose **Export to CSV**.
 3. Import your target role keywords into an end-to-end engine like [AiApply](https://redirect-hub.457239850.workers.dev/aiapply) to continue auto-generating tailored kits without losing progress.
+
+---
+*Also using LazyApply? Read our [LazyApply Safe Cancellation & Alternative Guide](https://github.com/wangxf0892/best-lazyapply-alternatives-and-cancellation-guide-2026).*
